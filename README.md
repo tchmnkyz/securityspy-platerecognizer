@@ -8,7 +8,9 @@ To use `securityspy-platerecognizer`, you'll need to have Python 3 installed on 
 
 You'll also need to install the `requests` library. You can do this by running the following command in your terminal:
 
-```pip install requests```
+```
+pip install requests
+```
 
 ## Usage
 
@@ -16,7 +18,9 @@ To use `securityspy-platerecognizer`, you'll need to edit the `platerecognizer.p
 
 You can then run the script by running the following command in your terminal:
 
-```python3 platerecognizer.py```
+```
+python3 platerecognizer.py
+```
 
 
 
